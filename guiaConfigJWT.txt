@@ -1,0 +1,4 @@
+-video guia: https://www.youtube.com/watch?v=tJCyNV1G0P4
+
+-github : https://github.com/matheusbreda/jwt.git
+
